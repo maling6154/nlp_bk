@@ -1,0 +1,6 @@
+candidate models/
+.ipynb_checkpoints/
+data/
+.Rproj.user
+model/
+model/final/
